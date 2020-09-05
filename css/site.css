@@ -1,4 +1,10 @@
 body {
-    background-color: darkblue;
+    background-color: black;
     color: white;
+}
+
+.MainHeader{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../img/giphy-23.gif);
 }
