@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: black;
+    background-image: url(../img/giphy-22.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+div{
+    margin-top: 20%;
+}
+
+a{  
+    color: black;
+    font-size: 80px;
+    text-shadow: white 2px 0 10px;
+    text-decoration: none;
+}
+a:hover{
+    opacity: .7;
+    text-transform: uppercase;
+}
